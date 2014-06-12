@@ -30,4 +30,4 @@ public class DelLinkDataServlet extends HttpServlet {
         manager.close();
         resp.sendRedirect("/shop.html");
     }
-}
+}//注文の削除
